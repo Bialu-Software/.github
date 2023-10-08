@@ -47,7 +47,7 @@ Now that you have your forked repository, you can make changes to the code or do
 
 Once you've made your changes, it's time to commit them.
 
-1. Add your changes to the staging area using `git add .` (for all changes) or `git add file-name` (for specific files). <br> ![image](https://github.com/Bialu-Software/.github/assets/70224036/435283ec-f2da-4b20-8952-752919f61575)
+1. Add your changes to the staging area using `git add .` (for all changes) or `git add file-path` (for specific files). <br> ![image](https://github.com/Bialu-Software/.github/assets/70224036/435283ec-f2da-4b20-8952-752919f61575)
 2. Commit your changes with a descriptive message using `git commit -m "your message"`. <br> ![image](https://github.com/Bialu-Software/.github/assets/70224036/ccd5c2bf-5f4c-4203-a654-bbcabd9b4c70)
 
 ## 💣 Making a Pull Request <a name="making-a-pull-request"></a>
