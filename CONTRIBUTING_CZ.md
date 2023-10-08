@@ -47,7 +47,7 @@ Nyní, když máte váš fork repozitáře, můžete provádět změny v kódu n
 
 Jakmile provedete změny, je čas je commitnout.
 
-1. Přidejte vaše změny do přípravného úložiště pomocí `git add .` (pro všechny změny) nebo `git add nazev-souboru` (pro konkrétní soubory). <br> ![image](https://github.com/Bialu-Software/.github/assets/70224036/435283ec-f2da-4b20-8952-752919f61575)
+1. Přidejte vaše změny do přípravného úložiště pomocí `git add .` (pro všechny změny) nebo `git add cesta-k-souboru` (pro konkrétní soubory). <br> ![image](https://github.com/Bialu-Software/.github/assets/70224036/435283ec-f2da-4b20-8952-752919f61575)
 2. Commitněte vaše změny s popisnou zprávou pomocí `git commit -m "vaše zpráva"`. <br> ![image](https://github.com/Bialu-Software/.github/assets/70224036/ccd5c2bf-5f4c-4203-a654-bbcabd9b4c70)
 
 ## 💣 Vytvoření Pull Requestu <a name="vytvoreni-pull-requestu"></a>
