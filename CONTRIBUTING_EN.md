@@ -14,7 +14,7 @@
 - [Committing](#committing)
 - [Making a Pull Request](#making-a-pull-request)
 
-## 🧐 Making a GitHub Account <a name="making-a-github-account"></a>
+## 💻 Making a GitHub Account <a name="making-a-github-account"></a>
 
 To contribute to Bialu Software projects, you'll need a GitHub account. If you don't have one, follow these steps:
 
@@ -26,7 +26,7 @@ Now you're ready to contribute!
 
 ![image](https://github.com/Bialu-Software/.github/assets/70224036/72fbe026-e36a-4bf6-8c8c-66b3c06cdf22)
 
-## 🏁 Forking <a name="forking"></a>
+## 🔗 Forking <a name="forking"></a>
 
 Before you start contributing, fork the repository you want to work on. Forking creates a copy of the project in your GitHub account.
 
@@ -35,7 +35,7 @@ Before you start contributing, fork the repository you want to work on. Forking 
 
 ![image](https://github.com/Bialu-Software/.github/assets/70224036/39964976-fa46-4c38-9c7b-43171f794cd8)
 
-## 🎈 Editing <a name="editing"></a>
+## 📝 Editing <a name="editing"></a>
 
 Now that you have your forked repository, you can make changes to the code or documentation.
 
@@ -50,7 +50,7 @@ Once you've made your changes, it's time to commit them.
 1. Add your changes to the staging area using `git add .` (for all changes) or `git add file-name` (for specific files). ![image](https://github.com/Bialu-Software/.github/assets/70224036/435283ec-f2da-4b20-8952-752919f61575)
 2. Commit your changes with a descriptive message using `git commit -m "your message"`. ![image](https://github.com/Bialu-Software/.github/assets/70224036/ccd5c2bf-5f4c-4203-a654-bbcabd9b4c70)
 
-## ✨ Making a Pull Request <a name="making-a-pull-request"></a>
+## 💣 Making a Pull Request <a name="making-a-pull-request"></a>
 
 Now, you're ready to contribute your changes back to the main project.
 
