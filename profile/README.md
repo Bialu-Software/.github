@@ -13,7 +13,7 @@ Welcome to Bialu Software, an innovative open-source team based in central Europ
 
 ## Connect with Us
 
-- 🌐 **Website:** [bialu.fun](https://bialu.fun) (not in use)
+- 🌐 **Website:** [bialu.cz](https://bialu.cz)
 - 📱 **GitHub:** [@Bialu-Software](https://github.com/Bialu-Software)
 - 🐦 **Twitter:** [@BialuSoftware](https://twitter.com/BialuSoftware)
 
